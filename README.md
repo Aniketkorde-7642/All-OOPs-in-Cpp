@@ -1,5 +1,4 @@
-# All-OOPs-in-Cpp
-# OOPs in C++: Step-by-Step Learning Repository
+# All-OOPs-in-Cpp :: Step-by-Step Learning Repository
 
 Welcome to the **OOPs in C++** learning repository!  
 This repo is designed to document and share my journey of learning Object-Oriented Programming (OOP) concepts in C++, step-by-step. Here, I will upload my notes, code samples, explanations, and resources for each topic as I progress.
